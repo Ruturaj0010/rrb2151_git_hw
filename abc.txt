@@ -1,0 +1,2 @@
+This is the text file required for HW
+Made changes to the txt file for part 3
